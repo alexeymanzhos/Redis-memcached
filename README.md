@@ -55,7 +55,7 @@
 
 - ttl 5 for name "alexey" 
 
-![alt text](https://github.com/alexeymanzhos/Redis-memcached/blob/main/img/memcached_ttl_5.jpg)
+![alt text](https://github.com/alexeymanzhos/Redis-memcached/blob/main/img/memcahed_ttl_5.jpg)
 ---
 
 ### Задание 4. Запись данных в Redis
