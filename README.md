@@ -51,6 +51,11 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
+### Решение 3.
+
+- ttl 5 for name "alexey" 
+
+![alt text](https://github.com/alexeymanzhos/Redis-memcached/blob/main/img/memcached_ttl_5.jpg)
 ---
 
 ### Задание 4. Запись данных в Redis
