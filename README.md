@@ -42,7 +42,7 @@
 
 - Status memcached
 
-![alt text](https://github/alexeymanzhos/Redis-memcached/blob/main/img/status_memcached.jpg)
+![alt text](https://github.com/alexeymanzhos/Redis-memcached/blob/main/img/status_memcached.jpg)
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
