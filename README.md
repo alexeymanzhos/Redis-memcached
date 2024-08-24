@@ -64,6 +64,16 @@
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
+### Решение 4.
+
+- Status Redis
+
+![alt text](https://github.com/alexeymanzhos/Redis-memcached/blob/main/img/Redis_status.jpg)
+
+- Redis Keys
+
+![alt text](https://github.com/alexeymanzhos/Redis-memcached/blob/main/img/Redis_keys.jpg)
+---
 
 ## Дополнительные задания (со звёздочкой*)
 Эти задания дополнительные, то есть не обязательные к выполнению, и никак не повлияют на получение вами зачёта по этому домашнему заданию. Вы можете их выполнить, если хотите глубже разобраться в материале.
